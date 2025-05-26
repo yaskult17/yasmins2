@@ -279,3 +279,22 @@ body {
     transform: translate(-50%, -50%);
     font-size: 60px;
 }
+.rodape {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #ff9cd1;
+    background-color: #85047d;
+    text-decoration: none;
+    display: flex;align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px;
+}
+.rodape:hover {
+    color: rgb(255, 255, 254);
+}
